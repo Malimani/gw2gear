@@ -32527,7 +32527,9 @@
     },
     {
       "name": "48072",
-      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
       "method": "Crafting",
       "cost": "craft:48072",
       "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48072!e~0",
