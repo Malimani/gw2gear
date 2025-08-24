@@ -1634,6 +1634,78 @@
         "1378",
         "1484"
       ]
+    },
+    {
+      "name": "48081",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48081",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48081!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48087",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48087",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48087!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48075",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:48075",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48075!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "49620",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49620",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49620!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49614",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49614",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49614!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49626",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49626",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49626!e~0",
+      "attributes": [
+        "799"
+      ]
     }
   ],
   "Amulet": [
@@ -28693,6 +28765,78 @@
         "1378",
         "1484"
       ]
+    },
+    {
+      "name": "48083",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48083",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48083!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48089",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48089",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48089!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48077",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:48077",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48077!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "49618",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49618",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49618!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49612",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49612",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49612!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49624",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49624",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49624!e~0",
+      "attributes": [
+        "799"
+      ]
     }
   ],
   "Coat": [
@@ -29837,6 +29981,78 @@
         "1377",
         "1378",
         "1484"
+      ]
+    },
+    {
+      "name": "48079",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48079",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48079!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48085",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48085",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48085!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48073",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:48073",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48073!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "49622",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49622",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49622!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49616",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49616",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49616!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49627",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49627",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49627!e~0",
+      "attributes": [
+        "799"
       ]
     }
   ],
@@ -31019,6 +31235,78 @@
         "1378",
         "1484"
       ]
+    },
+    {
+      "name": "48080",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48080",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48080!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48086",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48086",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48086!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48074",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:48074",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48074!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "49621",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49621",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49621!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49615",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49615",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49615!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49611",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49611",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49611!e~0",
+      "attributes": [
+        "799"
+      ]
     }
   ],
   "Leggings": [
@@ -32199,6 +32487,86 @@
         "1377",
         "1378",
         "1484"
+      ]
+    },
+    {
+      "name": "48082",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48082",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48082!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48088",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48088",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48088!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48076",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:48076",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48076!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48072",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "method": "Crafting",
+      "cost": "craft:48072",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48072!e~0",
+      "attributes": []
+    },
+    {
+      "name": "49619",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49619",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49619!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49613",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49613",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49613!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49625",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49625",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49625!e~0",
+      "attributes": [
+        "799"
       ]
     }
   ],
@@ -33381,6 +33749,66 @@
         "1378",
         "1484"
       ]
+    },
+    {
+      "name": "48078",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:48078",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48078!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "48084",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:48084",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48084!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "49623",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:49623",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49623!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49617",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:49617",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49617!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "49628",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:49628",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-49628!e~0",
+      "attributes": [
+        "799"
+      ]
     }
   ],
   "HelmAquatic": [
@@ -33443,6 +33871,78 @@
         "1717",
         "1687",
         "1826"
+      ]
+    },
+    {
+      "name": "75573",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:75573",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-75573!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "72280",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:72280",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-72280!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "74353",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:74353",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-74353!e~0",
+      "attributes": [
+        "161"
+      ]
+    },
+    {
+      "name": "73364",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Crafting",
+      "cost": "craft:73364",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-73364!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "76184",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Crafting",
+      "cost": "craft:76184",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-76184!e~0",
+      "attributes": [
+        "799"
+      ]
+    },
+    {
+      "name": "70574",
+      "icon": "https://render.guildwars2.com/file/FA1D042B0845BED8DA3CFA0FAA0837D5EB0207A6/61297.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Crafting",
+      "cost": "craft:70574",
+      "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-70574!e~0",
+      "attributes": [
+        "799"
       ]
     }
   ]
