@@ -256,6 +256,11 @@ body {
     let slotTypeMap = {};
     let currencyIconMap = {};
 
+    const slotDisplayNameMap = {
+    "Harpoon": "Spear",
+    "Speargun": "Harpoon Gun",
+    };
+
     const apiQueue = [];
     let tokens = 300;
     const maxTokens = 300;
@@ -317,7 +322,7 @@ function rateLimitedFetch(url, maxRetries = 3) {
         attributeMap = await attrRes.json();
         gearData = await gearRes.json();
         slotTypeMap = await slotMapRes.json();
-        currencyIconMap = await currencyRes.json();  // ⬅️
+        currencyIconMap = await currencyRes.json();
         buildSlotDropdown();
         updateItemCounter();
       } catch (err) {
@@ -349,7 +354,7 @@ function rateLimitedFetch(url, maxRetries = 3) {
         groupedSlots[group].sort().forEach(slot => {
           const option = document.createElement("option");
           option.value = slot;
-          option.textContent = slot;
+          option.textContent = slotDisplayNameMap[slot] || slot;
           optgroup.appendChild(option);
         });
         slotSelect.appendChild(optgroup);
