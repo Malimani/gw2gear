@@ -1742,6 +1742,459 @@
       "attributes": [
         "162"
       ]
+    },
+    {
+      "name": "86268",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Masque",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85837",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Visage",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86198",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Visor",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86128",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Masque",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85732",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Visage",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85956",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Visor",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86013",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Masque",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86042",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Visage",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86344",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Visor",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86295",
+      "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Masque",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "86186",
+      "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Visage",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85951",
+      "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 75000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 175
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Visor",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
     }
   ],
   "Amulet": [
@@ -28909,6 +29362,459 @@
       "attributes": [
         "162"
       ]
+    },
+    {
+      "name": "86185",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Epaulets",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86084",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Shoulderguard",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85829",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Pauldrons",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85712",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Epaulets",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86045",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Shoulderguard",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86158",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Pauldrons",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86361",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Epaulets",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85763",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Shoulderguard",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85944",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Pauldrons",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86370",
+      "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Epaulets",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85823",
+      "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Shoulderguard",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85636",
+      "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Pauldrons",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
     }
   ],
   "Coat": [
@@ -30161,6 +31067,459 @@
       "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48091!e~0",
       "attributes": [
         "162"
+      ]
+    },
+    {
+      "name": "86141",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Doublet",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85819",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Guise",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85814",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Breastplate",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85867",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Doublet",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86136",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Guise",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86110",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Breastplate",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86311",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Doublet",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85739",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Guise",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86244",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Breastplate",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86352",
+      "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Doublet",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85980",
+      "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Guise",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85903",
+      "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 150000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 400
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Breastplate",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
       ]
     }
   ],
@@ -31451,6 +32810,459 @@
       "attributes": [
         "162"
       ]
+    },
+    {
+      "name": "85861",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Wristguards",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86220",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Grips",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85949",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Warfists",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85789",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Wristguards",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85736",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Grips",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86052",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Warfists",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86090",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Wristguards",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85641",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Grips",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85777",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Warfists",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86215",
+      "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Wristguards",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "86307",
+      "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Grips",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85831",
+      "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Warfists",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
     }
   ],
   "Leggings": [
@@ -32740,6 +34552,459 @@
       "attributes": [
         "162"
       ]
+    },
+    {
+      "name": "85859",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Breeches",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85645",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Leggings",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86079",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Tassets",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86278",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Breeches",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86325",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Leggings",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85984",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Tassets",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85792",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Breeches",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85843",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Leggings",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85957",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Tassets",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86324",
+      "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Breeches",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "86011",
+      "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Leggings",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "85938",
+      "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 100000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 275
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Tassets",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
     }
   ],
   "Boots": [
@@ -34028,6 +36293,459 @@
       "link": "https://gw2efficiency.com/crafting/calculator/a~0!b~1!c~0!d~1-48090!e~0",
       "attributes": [
         "162"
+      ]
+    },
+    {
+      "name": "85692",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Footwear",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86024",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Striders",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "86237",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Assaulter%27s_Greaves",
+      "attributes": [
+        "753",
+        "161",
+        "559",
+        "616",
+        "158",
+        "159",
+        "1067",
+        "162",
+        "157",
+        "799",
+        "1227",
+        "1232",
+        "1231",
+        "1228",
+        "1224",
+        "1225",
+        "1539",
+        "1379",
+        "1377",
+        "1378",
+        "1687",
+        "1826"
+      ]
+    },
+    {
+      "name": "85722",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Footwear",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86139",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Striders",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "86129",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Defender%27s_Greaves",
+      "attributes": [
+        "616",
+        "559",
+        "754",
+        "628",
+        "158",
+        "1026",
+        "686",
+        "700",
+        "153",
+        "162",
+        "1232",
+        "1226",
+        "1229",
+        "1228",
+        "1225",
+        "1377",
+        "1484"
+      ]
+    },
+    {
+      "name": "85673",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Footwear",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85803",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Striders",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "86213",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Healer%27s_Greaves",
+      "attributes": [
+        "605",
+        "559",
+        "155",
+        "628",
+        "156",
+        "1226",
+        "1230",
+        "1539",
+        "1377",
+        "1378",
+        "1484"
+      ]
+    },
+    {
+      "name": "85795",
+      "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
+      "rarity": "Ascended",
+      "weight_class": "Light",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Footwear",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "86100",
+      "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
+      "rarity": "Ascended",
+      "weight_class": "Medium",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Striders",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
+      ]
+    },
+    {
+      "name": "86017",
+      "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
+      "rarity": "Ascended",
+      "weight_class": "Heavy",
+      "method": "Raids",
+      "cost": [
+        [
+          {
+            "currency": "Coin",
+            "amount": 50000
+          },
+          {
+            "currency": "Magnetite_Shard",
+            "amount": 150
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Malicious_Greaves",
+      "attributes": [
+        "1032",
+        "160",
+        "559",
+        "754",
+        "154",
+        "153",
+        "1067",
+        "1230",
+        "1229",
+        "1224",
+        "1379",
+        "1484",
+        "1717"
       ]
     }
   ],
