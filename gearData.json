@@ -6269,6 +6269,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "106752",
+      "icon": "https://render.guildwars2.com/file/B825923B0EE0AB2EBFA7C191E8060D48BCB4E7D9/3709417.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Dagger",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Scepter": [
@@ -7541,6 +7552,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "106077",
+      "icon": "https://render.guildwars2.com/file/732FE3A90B9B5A995405CDC22F686F382DB2D204/3709498.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Scepter",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Shield": [
@@ -8788,6 +8810,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Shield",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106579",
+      "icon": "https://render.guildwars2.com/file/80FC5396B95815CF0A599DAE056A3C080E3DC0EE/3709510.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Shield",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -10098,6 +10131,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "105519",
+      "icon": "https://render.guildwars2.com/file/029D25C410F7324B9BD6E7617B33240B1DC0A60E/3709548.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Sword",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Greatsword": [
@@ -11399,6 +11443,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "105535",
+      "icon": "https://render.guildwars2.com/file/616EF2BF01460A7FB707C703556701E3EEA8B795/3709442.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Greatsword",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Focus": [
@@ -12608,6 +12663,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Focus",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106570",
+      "icon": "https://render.guildwars2.com/file/44C7C097F1D5116D46F2C23B030833E72F08DFCE/3709430.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Focus",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -13821,6 +13887,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "105851",
+      "icon": "https://render.guildwars2.com/file/012CC26171D01AF23CD8EFE94EA73D61FA65F420/3709562.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Torch",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Mace": [
@@ -15032,6 +15109,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Mace",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106406",
+      "icon": "https://render.guildwars2.com/file/9D091F069403B8A6286F3EA25937CE035357DA0E/3709463.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Mace",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -16271,6 +16359,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Longbow",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106745",
+      "icon": "https://render.guildwars2.com/file/BE2B3FB80FA5B72AA33CF8B02DAAA9E497189527/3709407.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Longbow",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -18570,6 +18669,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "106472",
+      "icon": "https://render.guildwars2.com/file/787C14C5E32DD2257E33050B980B02C709C0EC18/3709573.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Warhorn",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Harpoon": [
@@ -19745,6 +19855,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Spear",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106671",
+      "icon": "https://render.guildwars2.com/file/3E33F0EBD76E5704A49B05E6B7B6B19069AE21E1/3709531.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Spear",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -21009,6 +21130,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "106642",
+      "icon": "https://render.guildwars2.com/file/999DEEF801956C1876B7A393CA3764D09E336E09/3709484.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Rifle",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Axe": [
@@ -22234,6 +22366,17 @@
       "attributes": [
         "559"
       ]
+    },
+    {
+      "name": "105989",
+      "icon": "https://render.guildwars2.com/file/B507ACCD5F35E90232040FCCC8405D9D50DA014A/3709397.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Axe",
+      "attributes": [
+        "1067"
+      ]
     }
   ],
   "Pistol": [
@@ -23447,6 +23590,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Pistol",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106531",
+      "icon": "https://render.guildwars2.com/file/5CA076F212D3CD339EEA504FA1730A03934C71DD/3709474.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Pistol",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -24699,6 +24853,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Short_Bow",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106391",
+      "icon": "https://render.guildwars2.com/file/21E8677962E4C22EDCEC09C7C42D496ED450BF1A/3709520.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Short_Bow",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -25986,6 +26151,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Staff",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "105640",
+      "icon": "https://render.guildwars2.com/file/A932FFBA01FA1D64A73AFEEBC8A130F0B4F6572C/3709543.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Staff",
+      "attributes": [
+        "1067"
       ]
     }
   ],
@@ -28325,6 +28501,17 @@
       "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Hammer",
       "attributes": [
         "559"
+      ]
+    },
+    {
+      "name": "106681",
+      "icon": "https://render.guildwars2.com/file/7A6A690FB459EEA3B002C41C65F5C2B3EAAFBAA1/3709453.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:106159",
+      "link": "https://wiki.guildwars2.com/wiki/Fast_Constructor%27s_Hammer",
+      "attributes": [
+        "1067"
       ]
     }
   ],
