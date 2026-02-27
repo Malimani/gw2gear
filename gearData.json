@@ -1187,7 +1187,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1231,7 +1231,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1275,7 +1275,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1319,7 +1319,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1354,7 +1354,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1389,7 +1389,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1424,7 +1424,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1463,7 +1463,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1502,7 +1502,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1541,7 +1541,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1574,7 +1574,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1607,7 +1607,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1748,7 +1748,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1792,7 +1792,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1836,7 +1836,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters / Raid Encounters",
       "cost": [
         [
           {
@@ -1880,7 +1880,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1919,7 +1919,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1958,7 +1958,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -1997,7 +1997,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -2030,7 +2030,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -2063,7 +2063,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -2096,7 +2096,7 @@
       "icon": "https://render.guildwars2.com/file/AD7849A39265D6AA1C712ACD476E912E1EC30839/699210.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -2131,7 +2131,7 @@
       "icon": "https://render.guildwars2.com/file/0EBB9F33579CC54CC39F685868FFD79D7A0FEEDC/699204.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -2166,7 +2166,7 @@
       "icon": "https://render.guildwars2.com/file/D4FC06FD1B58AF62E771D7747C66F0E8FAAB8054/699216.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -5177,7 +5177,7 @@
       "name": "96057",
       "icon": "https://render.guildwars2.com/file/AB264A586F0B706FBC4E425CEFDABCAD9AE969B9/2596462.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -5996,7 +5996,7 @@
       "name": "85660",
       "icon": "https://render.guildwars2.com/file/B9DA373EF1202777B2D9102134BF65AEEE294BD2/632299.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -6039,7 +6039,7 @@
       "name": "85791",
       "icon": "https://render.guildwars2.com/file/B9DA373EF1202777B2D9102134BF65AEEE294BD2/632299.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -6077,7 +6077,7 @@
       "name": "86335",
       "icon": "https://render.guildwars2.com/file/B9DA373EF1202777B2D9102134BF65AEEE294BD2/632299.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -6109,7 +6109,7 @@
       "name": "85858",
       "icon": "https://render.guildwars2.com/file/B9DA373EF1202777B2D9102134BF65AEEE294BD2/632299.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -6438,7 +6438,7 @@
       "name": "96969",
       "icon": "https://render.guildwars2.com/file/1593020617DE2A1D086517E13D18462DD0BD0DE3/2596591.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -7257,7 +7257,7 @@
       "name": "85969",
       "icon": "https://render.guildwars2.com/file/76B41872F7B0DA64542FC6AB5C25C7A898EA9837/632353.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -7300,7 +7300,7 @@
       "name": "85822",
       "icon": "https://render.guildwars2.com/file/76B41872F7B0DA64542FC6AB5C25C7A898EA9837/632353.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -7338,7 +7338,7 @@
       "name": "85982",
       "icon": "https://render.guildwars2.com/file/76B41872F7B0DA64542FC6AB5C25C7A898EA9837/632353.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -7370,7 +7370,7 @@
       "name": "86263",
       "icon": "https://render.guildwars2.com/file/76B41872F7B0DA64542FC6AB5C25C7A898EA9837/632353.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -7675,7 +7675,7 @@
       "name": "97878",
       "icon": "https://render.guildwars2.com/file/01FC99BA3237D5E09ADB0E4495400E1A6C4F079C/2596612.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -8494,7 +8494,7 @@
       "name": "85635",
       "icon": "https://render.guildwars2.com/file/276CA1110C02EE552019014808D89CE74D15C154/632359.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -8537,7 +8537,7 @@
       "name": "85888",
       "icon": "https://render.guildwars2.com/file/276CA1110C02EE552019014808D89CE74D15C154/632359.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -8575,7 +8575,7 @@
       "name": "86308",
       "icon": "https://render.guildwars2.com/file/276CA1110C02EE552019014808D89CE74D15C154/632359.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -8607,7 +8607,7 @@
       "name": "86333",
       "icon": "https://render.guildwars2.com/file/276CA1110C02EE552019014808D89CE74D15C154/632359.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -8973,7 +8973,7 @@
       "name": "97307",
       "icon": "https://render.guildwars2.com/file/EFC29658770E58CB24373942127D341CA4EB2B2B/2596648.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -9792,7 +9792,7 @@
       "name": "85825",
       "icon": "https://render.guildwars2.com/file/1A07F221AB290414DB3533D96B80635AD5CE0F98/632383.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -9835,7 +9835,7 @@
       "name": "86209",
       "icon": "https://render.guildwars2.com/file/1A07F221AB290414DB3533D96B80635AD5CE0F98/632383.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -9873,7 +9873,7 @@
       "name": "86000",
       "icon": "https://render.guildwars2.com/file/1A07F221AB290414DB3533D96B80635AD5CE0F98/632383.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -9905,7 +9905,7 @@
       "name": "86264",
       "icon": "https://render.guildwars2.com/file/1A07F221AB290414DB3533D96B80635AD5CE0F98/632383.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -10223,7 +10223,7 @@
       "name": "97326",
       "icon": "https://render.guildwars2.com/file/9D4D9A5290FA657AE9A509684740D05FBC717522/2596500.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -11042,7 +11042,7 @@
       "name": "85651",
       "icon": "https://render.guildwars2.com/file/33A36BE506586D709D2FF5C7581B65D9B26EF961/632311.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -11095,7 +11095,7 @@
       "name": "85680",
       "icon": "https://render.guildwars2.com/file/33A36BE506586D709D2FF5C7581B65D9B26EF961/632311.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -11143,7 +11143,7 @@
       "name": "85992",
       "icon": "https://render.guildwars2.com/file/33A36BE506586D709D2FF5C7581B65D9B26EF961/632311.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -11185,7 +11185,7 @@
       "name": "86368",
       "icon": "https://render.guildwars2.com/file/33A36BE506586D709D2FF5C7581B65D9B26EF961/632311.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -11462,7 +11462,7 @@
       "name": "97357",
       "icon": "https://render.guildwars2.com/file/3E40EB927B0909450608B1A21F74D439D6D66461/2596482.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -12281,7 +12281,7 @@
       "name": "86246",
       "icon": "https://render.guildwars2.com/file/C7D7EF6A6922774F4D5C0B5C3C04BD9990B40F64/632305.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -12324,7 +12324,7 @@
       "name": "86256",
       "icon": "https://render.guildwars2.com/file/C7D7EF6A6922774F4D5C0B5C3C04BD9990B40F64/632305.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -12362,7 +12362,7 @@
       "name": "86224",
       "icon": "https://render.guildwars2.com/file/C7D7EF6A6922774F4D5C0B5C3C04BD9990B40F64/632305.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -12394,7 +12394,7 @@
       "name": "86102",
       "icon": "https://render.guildwars2.com/file/C7D7EF6A6922774F4D5C0B5C3C04BD9990B40F64/632305.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -12663,7 +12663,7 @@
       "name": "97011",
       "icon": "https://render.guildwars2.com/file/377FD8090628C8212DA6593B0E28C3F3356CA359/2596668.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -13482,7 +13482,7 @@
       "name": "85883",
       "icon": "https://render.guildwars2.com/file/0A54A1D76D48E9A3C77893130E0DEE3ECAF4467D/632389.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -13525,7 +13525,7 @@
       "name": "86056",
       "icon": "https://render.guildwars2.com/file/0A54A1D76D48E9A3C77893130E0DEE3ECAF4467D/632389.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -13563,7 +13563,7 @@
       "name": "85761",
       "icon": "https://render.guildwars2.com/file/0A54A1D76D48E9A3C77893130E0DEE3ECAF4467D/632389.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -13595,7 +13595,7 @@
       "name": "85835",
       "icon": "https://render.guildwars2.com/file/0A54A1D76D48E9A3C77893130E0DEE3ECAF4467D/632389.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -13864,7 +13864,7 @@
       "name": "97754",
       "icon": "https://render.guildwars2.com/file/97B429EE09609E4714573430CF072E56167423C5/2596536.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -14683,7 +14683,7 @@
       "name": "85716",
       "icon": "https://render.guildwars2.com/file/0E01F92B7A10E3146D7D5072D9080D01550C0F78/632335.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -14726,7 +14726,7 @@
       "name": "86273",
       "icon": "https://render.guildwars2.com/file/0E01F92B7A10E3146D7D5072D9080D01550C0F78/632335.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -14764,7 +14764,7 @@
       "name": "85693",
       "icon": "https://render.guildwars2.com/file/0E01F92B7A10E3146D7D5072D9080D01550C0F78/632335.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -14796,7 +14796,7 @@
       "name": "85916",
       "icon": "https://render.guildwars2.com/file/0E01F92B7A10E3146D7D5072D9080D01550C0F78/632335.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -15052,7 +15052,7 @@
       "name": "95679",
       "icon": "https://render.guildwars2.com/file/27039D0ECFF6AFD3A129CD21519A9D17B01B160B/2596441.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -15871,7 +15871,7 @@
       "name": "86234",
       "icon": "https://render.guildwars2.com/file/62F520F89F42B82B2606BE31450D2022507F8077/632329.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -15924,7 +15924,7 @@
       "name": "86138",
       "icon": "https://render.guildwars2.com/file/62F520F89F42B82B2606BE31450D2022507F8077/632329.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -15972,7 +15972,7 @@
       "name": "86135",
       "icon": "https://render.guildwars2.com/file/62F520F89F42B82B2606BE31450D2022507F8077/632329.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -16014,7 +16014,7 @@
       "name": "85753",
       "icon": "https://render.guildwars2.com/file/62F520F89F42B82B2606BE31450D2022507F8077/632329.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -16970,7 +16970,7 @@
       "name": "85986",
       "icon": "https://render.guildwars2.com/file/E1A1923F0AE8740E35060E57305C0EF39874EB13/632371.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -17023,7 +17023,7 @@
       "name": "86032",
       "icon": "https://render.guildwars2.com/file/E1A1923F0AE8740E35060E57305C0EF39874EB13/632371.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -17071,7 +17071,7 @@
       "name": "85941",
       "icon": "https://render.guildwars2.com/file/E1A1923F0AE8740E35060E57305C0EF39874EB13/632371.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -17113,7 +17113,7 @@
       "name": "86362",
       "icon": "https://render.guildwars2.com/file/E1A1923F0AE8740E35060E57305C0EF39874EB13/632371.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -17379,7 +17379,7 @@
       "name": "95717",
       "icon": "https://render.guildwars2.com/file/26EC7AFF44FD5644AD5720B6AC2A29C242B398CB/2596688.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -18198,7 +18198,7 @@
       "name": "86373",
       "icon": "https://render.guildwars2.com/file/130BD3A5F923FEF5131BF2B544CCA3D42369CF5A/632402.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -18241,7 +18241,7 @@
       "name": "86080",
       "icon": "https://render.guildwars2.com/file/130BD3A5F923FEF5131BF2B544CCA3D42369CF5A/632402.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -18279,7 +18279,7 @@
       "name": "85683",
       "icon": "https://render.guildwars2.com/file/130BD3A5F923FEF5131BF2B544CCA3D42369CF5A/632402.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -18311,7 +18311,7 @@
       "name": "85972",
       "icon": "https://render.guildwars2.com/file/130BD3A5F923FEF5131BF2B544CCA3D42369CF5A/632402.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -19275,7 +19275,7 @@
       "name": "85976",
       "icon": "https://render.guildwars2.com/file/3E0C2B4067E476034C2D5E6EFF4DC3A6450464EF/632323.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -19328,7 +19328,7 @@
       "name": "85952",
       "icon": "https://render.guildwars2.com/file/3E0C2B4067E476034C2D5E6EFF4DC3A6450464EF/632323.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -19376,7 +19376,7 @@
       "name": "85966",
       "icon": "https://render.guildwars2.com/file/3E0C2B4067E476034C2D5E6EFF4DC3A6450464EF/632323.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -19418,7 +19418,7 @@
       "name": "85931",
       "icon": "https://render.guildwars2.com/file/3E0C2B4067E476034C2D5E6EFF4DC3A6450464EF/632323.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -19708,7 +19708,7 @@
       "name": "96840",
       "icon": "https://render.guildwars2.com/file/CF2F99C360C66C61F2D2BD73B0069309910A4551/2596572.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -20527,7 +20527,7 @@
       "name": "86380",
       "icon": "https://render.guildwars2.com/file/EEEEA9B831DF5E50D17C0A5D07084F75CDD8CDDD/632347.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -20580,7 +20580,7 @@
       "name": "86187",
       "icon": "https://render.guildwars2.com/file/EEEEA9B831DF5E50D17C0A5D07084F75CDD8CDDD/632347.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -20628,7 +20628,7 @@
       "name": "86005",
       "icon": "https://render.guildwars2.com/file/EEEEA9B831DF5E50D17C0A5D07084F75CDD8CDDD/632347.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -20670,7 +20670,7 @@
       "name": "85940",
       "icon": "https://render.guildwars2.com/file/EEEEA9B831DF5E50D17C0A5D07084F75CDD8CDDD/632347.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -20962,7 +20962,7 @@
       "name": "96753",
       "icon": "https://render.guildwars2.com/file/ABBC17964D0AF3A1C40DEDF49E45F11F1031802D/2596408.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -21781,7 +21781,7 @@
       "name": "86073",
       "icon": "https://render.guildwars2.com/file/C757E23AE505CFC0B8FCAD1C36B0D99BF3776591/632291.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -21824,7 +21824,7 @@
       "name": "85676",
       "icon": "https://render.guildwars2.com/file/C757E23AE505CFC0B8FCAD1C36B0D99BF3776591/632291.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -21862,7 +21862,7 @@
       "name": "86103",
       "icon": "https://render.guildwars2.com/file/C757E23AE505CFC0B8FCAD1C36B0D99BF3776591/632291.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -21894,7 +21894,7 @@
       "name": "86143",
       "icon": "https://render.guildwars2.com/file/C757E23AE505CFC0B8FCAD1C36B0D99BF3776591/632291.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -22176,7 +22176,7 @@
       "name": "96301",
       "icon": "https://render.guildwars2.com/file/1DA046359ECB6C08AA0CD50F4C7903BB08E17175/2596554.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -22984,7 +22984,7 @@
       "name": "86227",
       "icon": "https://render.guildwars2.com/file/F7C010C03692EE925068A0EABD70600D975E97AD/632341.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -23027,7 +23027,7 @@
       "name": "86255",
       "icon": "https://render.guildwars2.com/file/F7C010C03692EE925068A0EABD70600D975E97AD/632341.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -23065,7 +23065,7 @@
       "name": "85655",
       "icon": "https://render.guildwars2.com/file/F7C010C03692EE925068A0EABD70600D975E97AD/632341.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -23097,7 +23097,7 @@
       "name": "86112",
       "icon": "https://render.guildwars2.com/file/F7C010C03692EE925068A0EABD70600D975E97AD/632341.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -23366,7 +23366,7 @@
       "name": "97039",
       "icon": "https://render.guildwars2.com/file/FCFEFC67480F4FFDF7480CB343E79E735755332F/2596444.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -24185,7 +24185,7 @@
       "name": "85714",
       "icon": "https://render.guildwars2.com/file/051EBCEBE5A6D00B19DCC167ACE26399CEB79644/632365.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -24238,7 +24238,7 @@
       "name": "85729",
       "icon": "https://render.guildwars2.com/file/051EBCEBE5A6D00B19DCC167ACE26399CEB79644/632365.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -24286,7 +24286,7 @@
       "name": "85932",
       "icon": "https://render.guildwars2.com/file/051EBCEBE5A6D00B19DCC167ACE26399CEB79644/632365.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -24328,7 +24328,7 @@
       "name": "85698",
       "icon": "https://render.guildwars2.com/file/051EBCEBE5A6D00B19DCC167ACE26399CEB79644/632365.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -24594,7 +24594,7 @@
       "name": "95891",
       "icon": "https://render.guildwars2.com/file/D96968A6FA229A7412EDBA7272B208DB26637522/2596630.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -25413,7 +25413,7 @@
       "name": "85697",
       "icon": "https://render.guildwars2.com/file/400DB5354831059EDE4B0798165E16CBA45B7318/632377.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -25466,7 +25466,7 @@
       "name": "86365",
       "icon": "https://render.guildwars2.com/file/400DB5354831059EDE4B0798165E16CBA45B7318/632377.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -25514,7 +25514,7 @@
       "name": "85816",
       "icon": "https://render.guildwars2.com/file/400DB5354831059EDE4B0798165E16CBA45B7318/632377.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -25556,7 +25556,7 @@
       "name": "85703",
       "icon": "https://render.guildwars2.com/file/400DB5354831059EDE4B0798165E16CBA45B7318/632377.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -26487,7 +26487,7 @@
       "name": "85766",
       "icon": "https://render.guildwars2.com/file/C84199EC557036E5DF42E20BF3D75C750A9CC058/632396.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -26540,7 +26540,7 @@
       "name": "86164",
       "icon": "https://render.guildwars2.com/file/C84199EC557036E5DF42E20BF3D75C750A9CC058/632396.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -26588,7 +26588,7 @@
       "name": "85954",
       "icon": "https://render.guildwars2.com/file/C84199EC557036E5DF42E20BF3D75C750A9CC058/632396.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -26630,7 +26630,7 @@
       "name": "86270",
       "icon": "https://render.guildwars2.com/file/C84199EC557036E5DF42E20BF3D75C750A9CC058/632396.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -26922,7 +26922,7 @@
       "name": "96329",
       "icon": "https://render.guildwars2.com/file/BF3F1BBB3CAF5949B3201CD5B5C4ECB302130427/2596518.png",
       "rarity": "Ascended",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -27741,7 +27741,7 @@
       "name": "85661",
       "icon": "https://render.guildwars2.com/file/A21C2A3AA930CD6F245AC248C0A5F5362833626C/632317.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -27794,7 +27794,7 @@
       "name": "86029",
       "icon": "https://render.guildwars2.com/file/A21C2A3AA930CD6F245AC248C0A5F5362833626C/632317.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -27842,7 +27842,7 @@
       "name": "85749",
       "icon": "https://render.guildwars2.com/file/A21C2A3AA930CD6F245AC248C0A5F5362833626C/632317.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -27884,7 +27884,7 @@
       "name": "86289",
       "icon": "https://render.guildwars2.com/file/A21C2A3AA930CD6F245AC248C0A5F5362833626C/632317.png",
       "rarity": "Ascended",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -28807,7 +28807,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -28851,7 +28851,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -28895,7 +28895,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -28939,7 +28939,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -28974,7 +28974,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29009,7 +29009,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29044,7 +29044,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29083,7 +29083,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29122,7 +29122,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29161,7 +29161,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29194,7 +29194,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29227,7 +29227,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29368,7 +29368,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29412,7 +29412,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29456,7 +29456,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29500,7 +29500,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29539,7 +29539,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29578,7 +29578,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29617,7 +29617,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29650,7 +29650,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29683,7 +29683,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29716,7 +29716,7 @@
       "icon": "https://render.guildwars2.com/file/0C4E1FEED2C75BC8F6F1D3D11C18303EEF573EED/699208.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29751,7 +29751,7 @@
       "icon": "https://render.guildwars2.com/file/D52D7C621150ADD5AC264256194D9A58B85E447B/699202.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -29786,7 +29786,7 @@
       "icon": "https://render.guildwars2.com/file/BCF8FD08CF3F4A263704370659D69FEE2EDD0C45/699214.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30513,7 +30513,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30557,7 +30557,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30601,7 +30601,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30645,7 +30645,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30680,7 +30680,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30715,7 +30715,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30750,7 +30750,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30789,7 +30789,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30828,7 +30828,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30867,7 +30867,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30900,7 +30900,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -30933,7 +30933,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31074,7 +31074,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31118,7 +31118,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31162,7 +31162,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31206,7 +31206,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31245,7 +31245,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31284,7 +31284,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31323,7 +31323,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31356,7 +31356,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31389,7 +31389,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31422,7 +31422,7 @@
       "icon": "https://render.guildwars2.com/file/6E0C12721BAA5E343813DE9F2C7EFE064AECCE0A/699212.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31457,7 +31457,7 @@
       "icon": "https://render.guildwars2.com/file/957B01535AB96230450BA110704557C9C607054F/699206.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -31492,7 +31492,7 @@
       "icon": "https://render.guildwars2.com/file/64725E0CEBDA22C75C16B70B0CDE58E4E6E7400A/699218.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32255,7 +32255,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32299,7 +32299,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32343,7 +32343,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32387,7 +32387,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32422,7 +32422,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32457,7 +32457,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32492,7 +32492,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32531,7 +32531,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32570,7 +32570,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32609,7 +32609,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32642,7 +32642,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32675,7 +32675,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32816,7 +32816,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32860,7 +32860,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32904,7 +32904,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32948,7 +32948,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -32987,7 +32987,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33026,7 +33026,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33065,7 +33065,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33098,7 +33098,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33131,7 +33131,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33164,7 +33164,7 @@
       "icon": "https://render.guildwars2.com/file/5859B5CF97C0D394CF5CB5B3042775C6E6C1A1EB/699211.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33199,7 +33199,7 @@
       "icon": "https://render.guildwars2.com/file/E3BCBC4053466DEBC50B0B0894996353DE03C749/699205.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -33234,7 +33234,7 @@
       "icon": "https://render.guildwars2.com/file/BD20599D290345BE7D98BD270FBE502CF5212654/699217.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34147,7 +34147,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34191,7 +34191,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34235,7 +34235,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34279,7 +34279,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34314,7 +34314,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34349,7 +34349,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34384,7 +34384,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34423,7 +34423,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34462,7 +34462,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34501,7 +34501,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34534,7 +34534,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34567,7 +34567,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34708,7 +34708,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34752,7 +34752,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34796,7 +34796,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34840,7 +34840,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34879,7 +34879,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34918,7 +34918,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34957,7 +34957,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -34990,7 +34990,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35023,7 +35023,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35056,7 +35056,7 @@
       "icon": "https://render.guildwars2.com/file/58F7090A0E429EA35DF1C9F36DBD281552CA12F9/699209.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35091,7 +35091,7 @@
       "icon": "https://render.guildwars2.com/file/0D284759AF7E3E9454210A3E7DECF0000B7E5D7F/699203.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35126,7 +35126,7 @@
       "icon": "https://render.guildwars2.com/file/089C3C370428039590EF055CA33AED03E99E7951/699215.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35889,7 +35889,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35933,7 +35933,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -35968,7 +35968,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36007,7 +36007,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36040,7 +36040,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36084,7 +36084,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36119,7 +36119,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36158,7 +36158,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36191,7 +36191,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36235,7 +36235,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36270,7 +36270,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36309,7 +36309,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Strikes",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36450,7 +36450,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36494,7 +36494,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36538,7 +36538,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36582,7 +36582,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36621,7 +36621,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36660,7 +36660,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36699,7 +36699,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36732,7 +36732,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36765,7 +36765,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36798,7 +36798,7 @@
       "icon": "https://render.guildwars2.com/file/5C63AF3E5541CBBF54C8656DD8F5E274590BEA52/699213.png",
       "rarity": "Ascended",
       "weight_class": "Light",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36833,7 +36833,7 @@
       "icon": "https://render.guildwars2.com/file/33BC7FAC99DD9F5E68DFEAED70AC3145DBA707B0/699207.png",
       "rarity": "Ascended",
       "weight_class": "Medium",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
@@ -36868,7 +36868,7 @@
       "icon": "https://render.guildwars2.com/file/DBEE7E93AF2FF0FAEC1CE996F52B949EC872D69C/699219.png",
       "rarity": "Ascended",
       "weight_class": "Heavy",
-      "method": "Raids",
+      "method": "Raids / Raid Encounters",
       "cost": [
         [
           {
