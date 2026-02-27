@@ -22091,6 +22091,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "106084",
+      "icon": "https://render.guildwars2.com/file/68D2091C579C1FB2B8C0B6140ABB3130610D4BF3/3709581.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Axe",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Pistol": [
