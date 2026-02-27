@@ -6258,6 +6258,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "105870",
+      "icon": "https://render.guildwars2.com/file/0B58FE3EAF9591041E12B35F1B0204ACDF0E0FD7/3709597.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Dagger",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Scepter": [
@@ -7519,6 +7530,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "105698",
+      "icon": "https://render.guildwars2.com/file/7D38A3C4E4372D49CC730CF8047336A2FA0B387C/3709645.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Scepter",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Shield": [
@@ -8755,6 +8777,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "106487",
+      "icon": "https://render.guildwars2.com/file/6DBB1DF3A8C5CEB93B602D26C4EBA864C7AF2949/3709653.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Shield",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -10054,6 +10087,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "105650",
+      "icon": "https://render.guildwars2.com/file/782EEA670D51535A710E2BF827A44404217F49FB/3709682.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Sword",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Greatsword": [
@@ -11344,6 +11388,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "106363",
+      "icon": "https://render.guildwars2.com/file/0FF2D8B15721AFEE17615014557B585A055F1905/3709611.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Greatsword",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Focus": [
@@ -12542,6 +12597,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "106716",
+      "icon": "https://render.guildwars2.com/file/0DB0995403213A334F4E034DA8DA6FD43DDF3451/3709608.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Focus",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -13744,6 +13810,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "106248",
+      "icon": "https://render.guildwars2.com/file/A61FC665C06E944DCE25F434B3A4B7F9AA06AE43/3709688.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Torch",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Mace": [
@@ -14944,6 +15021,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "106368",
+      "icon": "https://render.guildwars2.com/file/96C310F02DC10EB27E3D3999F9062BC8747CECD4/3709627.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Mace",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -16172,6 +16260,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "105823",
+      "icon": "https://render.guildwars2.com/file/02D316FCB9D36902CEBB5A09B8BBB193500F6C9C/3709589.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Longbow",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -18460,6 +18559,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "106585",
+      "icon": "https://render.guildwars2.com/file/B0F8BFA2FBC0B7AB0A52F7054DF36E1075379D2E/3709699.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Warhorn",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "Harpoon": [
@@ -19624,6 +19734,17 @@
         "1717",
         "1687",
         "1826"
+      ]
+    },
+    {
+      "name": "106714",
+      "icon": "https://render.guildwars2.com/file/135003ECA3EC2C7731467B050745FB4F535AF403/3709670.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Spear",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -20876,6 +20997,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "106754",
+      "icon": "https://render.guildwars2.com/file/563DC411B842CA65E8A93B297E80D2E60F8074D6/3709637.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Rifle",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -23305,6 +23437,17 @@
         "1484",
         "1717"
       ]
+    },
+    {
+      "name": "105739",
+      "icon": "https://render.guildwars2.com/file/46F8A6CB396FFC143D211EECCCD9E81D6EB72706/3709635.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Pistol",
+      "attributes": [
+        "559"
+      ]
     }
   ],
   "ShortBow": [
@@ -24545,6 +24688,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "106706",
+      "icon": "https://render.guildwars2.com/file/05BB6CF9F1097562B7490C4D0E94C1D6779257E2/3709661.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Short_Bow",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -25821,6 +25975,17 @@
         "1717",
         "1687",
         "1826"
+      ]
+    },
+    {
+      "name": "105791",
+      "icon": "https://render.guildwars2.com/file/BCBD7908F7D99F150205DCE7E249C6CE95F0F69C/3709674.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Staff",
+      "attributes": [
+        "559"
       ]
     }
   ],
@@ -28149,6 +28314,17 @@
         "1379",
         "1484",
         "1717"
+      ]
+    },
+    {
+      "name": "105944",
+      "icon": "https://render.guildwars2.com/file/C4C8AE31075767B547A0C7D907F39F6A997DA7E1/3709619.png",
+      "rarity": "Exotic",
+      "method": "TP",
+      "cost": "TP:105794",
+      "link": "https://wiki.guildwars2.com/wiki/Seer-Enchanted_Hammer",
+      "attributes": [
+        "559"
       ]
     }
   ],
