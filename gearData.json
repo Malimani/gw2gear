@@ -10142,6 +10142,63 @@
       "attributes": [
         "1067"
       ]
+    },
+    {
+      "name": "106924",
+      "icon": "https://render.guildwars2.com/file/A9B5E8E47C10510A69A50E9AD3100D6576F8E516/3745413.png",
+      "rarity": "Ascended",
+      "method": "Wizard's Vault",
+      "cost": [
+        [
+          {
+            "currency": "Astral_Acclaim",
+            "amount": 1000
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Coralheart_Stake",
+      "attributes": [
+        "161",
+        "155",
+        "159",
+        "157",
+        "158",
+        "160",
+        "153",
+        "605",
+        "700",
+        "616",
+        "154",
+        "156",
+        "162",
+        "686",
+        "559",
+        "754",
+        "753",
+        "799",
+        "1026",
+        "1067",
+        "628",
+        "1032",
+        "1231",
+        "1232",
+        "1226",
+        "1225",
+        "1229",
+        "1224",
+        "1228",
+        "1227",
+        "1230",
+        "1379",
+        "1377",
+        "1378",
+        "1484",
+        "1539",
+        "1717",
+        "1687",
+        "1826"
+      ],
+      "description": "Bundled together with the ascended staff \"Coralheart Pillar\".\nEffectively 500 Astral Acclaim each."
     }
   ],
   "Greatsword": [
@@ -26163,6 +26220,63 @@
       "attributes": [
         "1067"
       ]
+    },
+    {
+      "name": "106998",
+      "icon": "https://render.guildwars2.com/file/55A8C94BC429164A9CA8DE201E27FAEB2512514B/3745377.png",
+      "rarity": "Ascended",
+      "method": "Wizard's Vault",
+      "cost": [
+        [
+          {
+            "currency": "Astral_Acclaim",
+            "amount": 1000
+          }
+        ]
+      ],
+      "link": "https://wiki.guildwars2.com/wiki/Coralheart_Pillar",
+      "attributes": [
+        "161",
+        "155",
+        "159",
+        "157",
+        "158",
+        "160",
+        "153",
+        "605",
+        "700",
+        "616",
+        "154",
+        "156",
+        "162",
+        "686",
+        "559",
+        "754",
+        "753",
+        "799",
+        "1026",
+        "1067",
+        "628",
+        "1032",
+        "1231",
+        "1232",
+        "1226",
+        "1225",
+        "1229",
+        "1224",
+        "1228",
+        "1227",
+        "1230",
+        "1379",
+        "1377",
+        "1378",
+        "1484",
+        "1539",
+        "1717",
+        "1687",
+        "1826"
+      ],
+      "description": "Bundled together with the ascended sword \"Coralheart Stake\".\nEffectively 500 Astral Acclaim each."
     }
   ],
   "Trident": [
